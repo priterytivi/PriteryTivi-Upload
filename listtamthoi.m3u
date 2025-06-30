@@ -1,2 +1,4 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+
 #EXTINF:-1 group-title="list tam thoi" tvg-logo="", Bình Thuận 6 
 http://kubolive.ddns.net:8080/BTV6_BThuan/index.m3u8
